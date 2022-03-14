@@ -1,0 +1,11 @@
+C:\Users\mpb1377\source\repos\CommandPatternExample\CommandPatternExample\bin\Debug\netcoreapp3.1\CommandPatternExample.exe
+C:\Users\mpb1377\source\repos\CommandPatternExample\CommandPatternExample\bin\Debug\netcoreapp3.1\CommandPatternExample.deps.json
+C:\Users\mpb1377\source\repos\CommandPatternExample\CommandPatternExample\bin\Debug\netcoreapp3.1\CommandPatternExample.runtimeconfig.json
+C:\Users\mpb1377\source\repos\CommandPatternExample\CommandPatternExample\bin\Debug\netcoreapp3.1\CommandPatternExample.runtimeconfig.dev.json
+C:\Users\mpb1377\source\repos\CommandPatternExample\CommandPatternExample\bin\Debug\netcoreapp3.1\CommandPatternExample.dll
+C:\Users\mpb1377\source\repos\CommandPatternExample\CommandPatternExample\bin\Debug\netcoreapp3.1\CommandPatternExample.pdb
+C:\Users\mpb1377\source\repos\CommandPatternExample\CommandPatternExample\obj\Debug\netcoreapp3.1\CommandPatternExample.csprojAssemblyReference.cache
+C:\Users\mpb1377\source\repos\CommandPatternExample\CommandPatternExample\obj\Debug\netcoreapp3.1\CommandPatternExample.AssemblyInfoInputs.cache
+C:\Users\mpb1377\source\repos\CommandPatternExample\CommandPatternExample\obj\Debug\netcoreapp3.1\CommandPatternExample.AssemblyInfo.cs
+C:\Users\mpb1377\source\repos\CommandPatternExample\CommandPatternExample\obj\Debug\netcoreapp3.1\CommandPatternExample.dll
+C:\Users\mpb1377\source\repos\CommandPatternExample\CommandPatternExample\obj\Debug\netcoreapp3.1\CommandPatternExample.pdb

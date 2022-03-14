@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mpb1377\\source\\repos\\CommandPatternExample\\CommandPatternExample\\CommandPatternExample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mpb1377\\source\\repos\\CommandPatternExample\\CommandPatternExample\\CommandPatternExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mpb1377\\source\\repos\\CommandPatternExample\\CommandPatternExample\\CommandPatternExample.csproj",
+        "projectName": "CommandPatternExample",
+        "projectPath": "C:\\Users\\mpb1377\\source\\repos\\CommandPatternExample\\CommandPatternExample\\CommandPatternExample.csproj",
+        "packagesPath": "C:\\Users\\mpb1377\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mpb1377\\source\\repos\\CommandPatternExample\\CommandPatternExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mpb1377\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/cunamutual/_packaging/ConsumerMarketingAndSalesOps%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/cunamutual/_packaging/InternalOpenSource%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/cunamutual/_packaging/LAH%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/cunamutual/_packaging/Lending/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
